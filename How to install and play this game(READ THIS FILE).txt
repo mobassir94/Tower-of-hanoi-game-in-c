@@ -1,0 +1,35 @@
+                                              ...........Follow the INstructions............
+
+
+If you are a windows(os) user then 
+
+step 1: first of all download the MY_TOH_GAME.CPP file.
+
+step 2: Download Turbo C++ 3.1.exe (the one i uploaded) not any other version.so after finish reading this file you just go back and download
+
+Turbo C++ 3.1.exe file i've uploaded here in my account..
+
+step 3 : If you have downloaded win1064Turbo C++ 3.1.zip file instead of .exe extensions one from here then you must extraxt that zip file 
+
+and you'll get Turbo C++ 3.1.exe from there..just double click on the exe file keep clicking next untill finish
+
+step 4 : Do not install turbo c in any other directory.you must install in default directory.that means you must install it in c drive 
+
+
+step 5 : Copy MY_TOH_GAME.CPP file you downloaded earlier and paste it into here " c>>Yogisoft>>TC>>BIN " paste the file in BIN folder.
+that means you gotta go to your c drive then go to the Yogisoft folder Then go to the TC folder after that Go to the BIN folder and paste the MY_TOH_GAME.CPP
+FILE right there
+
+step 6 : Now open turbo c++ from your desktop then click "File" click on "Open" then in the search box you can simply write "MY_TOH_GAME.CPP"
+
+and hit enter twice or you can manually search and find+ select that particular folder from there (that file is in BIN directory)
+
+once you've selected the file just open it..then press f10 or ctrl+f10 or simply select run option using your mouse..hit enter twice or run the game
+
+from there. AND thats it,,you are done..enjoy the game and Rest of the information has been provided there in the game,once you'll run the game,you'll find 'em
+
+THANK YOU :)
+
+
+{NOTE : If you are not a windows (os) user or if you have any problem playing this game then you can contact with me.email : mobassirhossen94@gmail.com or fb.id : Mobassir Hossen }
+ 
