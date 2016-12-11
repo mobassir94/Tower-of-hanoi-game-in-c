@@ -2,6 +2,7 @@
 
 
 If you are a windows(os) user then 
+(video tutorial link : https://www.youtube.com/watch?v=49MokcUXSbg)
 
 step 1: first of all download the MY_TOH_GAME.CPP file.
 
@@ -26,7 +27,7 @@ and hit enter twice or you can manually search and find+ select that particular 
 
 once you've selected the file just open it..then press f10 or ctrl+f10 or simply select run option using your mouse..hit enter twice or run the game
 
-from there. AND thats it,,you are done..enjoy the game and Rest of the information has been provided there in the game,once you'll run the game,you'll find 'em
+from there. (Video tutorial is here : https://www.youtube.com/watch?v=49MokcUXSbg)... AND thats it,,you are done..enjoy the game and Rest of the information has been provided there in the game,once you'll run the game,you'll find 'em
 
 THANK YOU :)
 
